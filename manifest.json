@@ -1,0 +1,23 @@
+{
+    "name": "Khmer Covid-19 Edu",
+    "short_name": "khcovid-19edu",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/icon/logo-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/icon/logo-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+
+  }
+
